@@ -26,7 +26,7 @@
 <!--                          ABOUT                              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Merhaba, ben **Bulut** — `DarkMorpheus`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Merhaba, ben **Bulut Ars. E.** — `DarkMorpheus`
 
 ```yaml
 konum:        "Türkiye 🇹🇷"
