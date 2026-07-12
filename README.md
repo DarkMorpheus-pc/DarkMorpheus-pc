@@ -29,12 +29,13 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Merhaba, ben **Bulut** — `DarkMorpheus`
 
 ```yaml
-konum:        "İzmir, Türkiye 🇹🇷"
+konum:        "Türkiye 🇹🇷"
 uğraş:        "OS geliştirme • Android ROM • sistem araçları"
 felsefe:      "no neon glow • sober dark themes • Material 3 discipline"
 şu an:        "ProjectBlazeComeback → Android 17 portu"
 makine:       "Dell Precision 7750 (i9-10885H • RTX 4000 • 64GB)"
-test_cihazı:  "Galaxy S21+ (r0s • Exynos 2100)"
+OS:           "Blaze SolarEvolution Fedora-Debian"
+Main:         "Galaxy S21+ (r0s • Exynos 2100)"
 ```
 
 Bağımsız bir geliştiriciyim ve **Blaze Galaxy** adını verdiğim, birbirine bağlı bir yazılım evreni inşa ediyorum: bir Linux dağıtımı, bir Android ROM ekosistemi ve bunların etrafında dönen bir dizi companion uygulaması.
@@ -50,7 +51,7 @@ Bağımsız bir geliştiriciyim ve **Blaze Galaxy** adını verdiğim, birbirine
 <td width="50%" valign="top">
 
 ### 🔥 BlazeOS
-Fedora tabanlı, kişiye özel bir Linux dağıtımı. Düşük donanım gereksinimi, ember-orange kimliği ve "Old Friend" dönen-kullanıcı deneyimi.
+Fedora ve Debian tabanlı, kişiye özel bir Linux dağıtımı. Düşük donanım gereksinimi, ember-purple kimliği ve "Old Friend" dönen-kullanıcı deneyimi.
 
 `Anaconda` `Kickstart` `livemedia-creator` `Plymouth`
 
