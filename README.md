@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=FF6A00&center=true&vCenter=true&width=600&lines=Morpheus+Studio;Blaze+Galaxy+Ecosystem;BlazeOS+%E2%80%A2+ProjectBlaze+%E2%80%A2+FireHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=FF6A00&center=true&vCenter=true&width=600&lines=Morpheus+Studio;Blaze+Galaxy+Ecosystem;BlazeOS+%E2%80%A2+ProjectBlaze+%E2%80%A2+A17" alt="Typing SVG" />
 
 <br>
 
@@ -31,7 +31,7 @@
 ```yaml
 konum:        "Türkiye 🇹🇷"
 uğraş:        "OS geliştirme • Android ROM • sistem araçları"
-felsefe:      "no neon glow • sober dark themes • Material 3 discipline"
+felsefe:      " • Material 3 discipline "
 şu an:        "ProjectBlazeComeback → Android 17 portu"
 makine:       "Dell Precision 7750 (i9-10885H • RTX 4000 • 64GB)"
 OS:           "Blaze SolarEvolution Fedora-Debian"
