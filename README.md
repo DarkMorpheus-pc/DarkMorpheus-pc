@@ -77,7 +77,7 @@ Camera2 + Kotlin sistem kamera uygulaması. Pixel-tarzı UI, LensManager v2 ile 
 <td width="50%" valign="top">
 
 ### 🛰️ FireHub & Co.
-Electron app marketplace, HellRootSignal (chat), Bird Island (dynamic island), SyberFire (güvenlik) ve dahası.
+Electron app marketplace, HellRootSignal (chat), Bird Island (dynamic island) ve dahası.
 
 `Electron` `Tauri 2` `Rust` `PyQt6`
 
