@@ -53,7 +53,7 @@ I'm an independent developer building a connected software universe I call **Bla
 ### BlazeOS
 A custom Linux distribution built on Fedora and Debian. Low hardware requirements, an ember-purple identity, and an "Old Friend" returning-user experience.
 
-`Anaconda` `Kickstart` `livemedia-creator` `Plymouth`
+`Kickstart` `livemedia-creator` `BlazeFireBuild`
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +61,7 @@ A custom Linux distribution built on Fedora and Debian. Low hardware requirement
 ### ProjectBlaze
 An AOSP-based Android ROM revival effort. Android 16/17 port, r0s device tree, and a GSI-first learning path.
 
-`AOSP` `LineageOS 23.2` `Exynos 2100` `GSI`
+`AOSP` `LineageOS 24` `Android 17` `GSI`
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ A Camera2 + Kotlin system camera app. Pixel-style UI, optical telephoto support 
 ### FireHub & Co.
 An Electron app marketplace, HellRootSignal (chat), Bird Island (dynamic island), and more.
 
-`Electron` `Tauri 2` `Rust` `PyQt6`
+`Tauri 2` `Rust` `PyQt6`
 
 </td>
 </tr>
