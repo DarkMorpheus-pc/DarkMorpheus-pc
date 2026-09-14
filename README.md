@@ -32,7 +32,7 @@
 location:   "Türkiye/KKTC"
 focus:      "OS development • Android ROM • system tooling"
 philosophy: "Türkiye's first and only mobile/desktop ecosystem"
-now:        "ProjectBlazeComeback → Android 17 port"
+now:        "ProjectBlazeComeback → Android 17 BlazeAOSP"
 machine:    "Dell Precision 7750 (i9-10885H • RTX Quadro 4000 • 64GB)"
 os:         "Blaze SolarEvolution (Fedora-Debian)"
 main:       "Galaxy S21+ (t2s • Exynos 2100)"
