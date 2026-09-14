@@ -29,13 +29,13 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm **Bulut Ars. E.** — `DarkMorpheus`
 
 ```yaml
-location:   "Türkiye 🇹🇷"
+location:   "Türkiye/KKTC"
 focus:      "OS development • Android ROM • system tooling"
 philosophy: "Material 3 discipline"
 now:        "ProjectBlazeComeback → Android 17 port"
 machine:    "Dell Precision 7750 (i9-10885H • RTX Quadro 4000 • 64GB)"
 os:         "Blaze SolarEvolution (Fedora-Debian)"
-main:       "Galaxy S21+ (r0s • Exynos 2100)"
+main:       "Galaxy S21+ (t2s • Exynos 2100)"
 ```
 
 I'm an independent developer building a connected software universe I call **Blaze Galaxy**: a Linux distribution, an Android ROM ecosystem, and a suite of companion apps orbiting around them.
@@ -135,7 +135,7 @@ An Electron app marketplace, HellRootSignal (chat), Bird Island (dynamic island)
 
 <div align="center">
 
-### 🌌 Connect
+### Connect
 
 <a href="https://github.com/DarkMorpheus-pc">
   <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FF6A00" />
@@ -147,6 +147,6 @@ An Electron app marketplace, HellRootSignal (chat), Bird Island (dynamic island)
 
 <br>
 
-<sub>⭐ <b>Blaze Galaxy</b> — <i>From evolution to expansion.</i></sub>
+<sub> <b>Blaze Galaxy</b> — <i>From evolution to expansion.</i></sub>
 
 </div>
