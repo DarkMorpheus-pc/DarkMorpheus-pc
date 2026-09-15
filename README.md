@@ -68,8 +68,8 @@ An AOSP-based Android ROM revival effort. Android 16/17 port, r0s device tree, a
 <tr>
 <td width="50%" valign="top">
 
-### BlazeOS Camera
-A Camera2 + Kotlin system camera app. Pixel-style UI, optical telephoto support via LensManager v2, and EIS groundwork.
+### SolarUI
+Rust + Meterial 3 desktop.
 
 `Kotlin` `Camera2` `JNI/C++20` `Compose`
 
