@@ -108,7 +108,7 @@ An Electron app marketplace, HellRootSignal (chat), Bird Island (dynamic island)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=FF6A00)
 ![Fedora](https://img.shields.io/badge/Fedora-7C3AED?style=for-the-badge&logo=fedora&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-FF6A00?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GNOME](https://img.shields.io/badge/GNOME-1a1a2e?style=for-the-badge&logo=gnome&logoColor=FF6A00)
+![SolarUI](https://img.shields.io/badge/GNOME-1a1a2e?style=for-the-badge&logo=gnome&logoColor=FF6A00)
 
 </div>
 
