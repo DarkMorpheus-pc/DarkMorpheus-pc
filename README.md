@@ -35,7 +35,7 @@ philosophy: "Türkiye's first and only mobile/desktop ecosystem"
 now:        "ProjectBlazeComeback → Android 17 BlazeAOSP"
 machine:    "Dell Precision 7750 (i9-10885H • RTX Quadro 4000 • 64GB)"
 os:         "Blaze SolarEvolution (Fedora-Debian)"
-main:       "Galaxy S21+ (t2s • Exynos 2100)"
+main:       "Google Pixel 6 (bluejay) + Galaxy S21+ (t2s)"
 ```
 
 I'm an independent developer building a connected software universe I call **Blaze Galaxy**: a Linux distribution, an Android ROM ecosystem, and a suite of companion apps orbiting around them.
