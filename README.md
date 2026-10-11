@@ -34,11 +34,11 @@ focus:      "OS development • Android ROM • system tooling"
 philosophy: "Türkiye's first and only mobile/desktop ecosystem"
 now:        "ProjectBlazeComeback → Android 17 BlazeAOSP"
 machine:    "Dell Precision 7750 (i9-10885H • RTX Quadro 4000 • 64GB)"
-os:         "Blaze SolarEvolution (Fedora-Debian)"
+os:         "Blaze Universe"
 main:       "Google Pixel 6 (bluejay) + Galaxy S21+ (t2s)"
 ```
 
-I'm an independent developer building a connected software universe I call **Blaze Galaxy**: a Linux distribution, an Android ROM ecosystem, and a suite of companion apps orbiting around them.
+I'm an independent developer building a connected software universe I call **Blaze Universe**: a Linux distribution, an Android ROM ecosystem, and a suite of companion apps orbiting around them.
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       THE ECOSYSTEM                         -->
@@ -58,7 +58,7 @@ A custom Linux distribution built on Fedora and Debian. Low hardware requirement
 </td>
 <td width="50%" valign="top">
 
-### ProjectBlaze
+### ProjectBlaze(BlazeAOSP)
 An AOSP-based Android ROM revival effort. Android 16/17 port, r0s device tree, and a GSI-first learning path.
 
 `AOSP` `LineageOS 24` `Android 17` `GSI`
