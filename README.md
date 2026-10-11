@@ -44,7 +44,7 @@ I'm an independent developer building a connected software universe I call **Bla
 <!--                       THE ECOSYSTEM                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> The Blaze Galaxy Ecosystem
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> The Blaze Universe Ecosystem
 
 <table>
 <tr>
